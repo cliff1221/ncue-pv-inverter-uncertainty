@@ -1,0 +1,6 @@
+pvlib==0.16.1
+SALib==1.6.0
+numpy
+pandas
+scipy
+matplotlib
